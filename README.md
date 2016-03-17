@@ -2,7 +2,7 @@
 
 Winning entry in the "Transit" category at the 2016 Vancouver Open Data Day Hackathon. (Other winners [here](https://www.opendatabc.ca/blog/amazing-results-from-the-vancouver-open-data-day-hackathon).)
 
-[Preview output here](http://htmlpreview.github.io/?https://github.com/dshkol/translink_hackathon/blob/master/index.html)
+[Preview output here](http://htmlpreview.github.io/?https://github.com/dshkol/VOD-hackathon-teamtransit/blob/master/index.html)
 
 ### A visualization of a distance-based fare structure for the Expo Skytrain line in Vancouver
 
