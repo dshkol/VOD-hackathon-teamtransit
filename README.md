@@ -33,4 +33,4 @@ Renee Mak, Yash Pareek, Peter Chin, Dmitry Shkolnik, Richard Shaw, Greg Stegeman
 Some remaining items to finish up for this in the future:
 * Integrate dynamic Shiny visualization into static webpage. 
 * Expand and refine web-page content.
-* Work with the estimated distributions data in the [other_files repository](../other_files/) to try to build out a more revenue neutral model. 
+* Work with the estimated distributions data in the [other_files repository](https://github.com/dshkol/VOD-hackathon-teamtransit/tree/master/other_files) to try to build out a more revenue neutral model. 
